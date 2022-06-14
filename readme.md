@@ -11,7 +11,7 @@ Projeto desenvolvido no Workshop Maratona Explorer do RocketSeat
 
 ### 🎨 Layout
 
-![revele_destino_carlos](https://user-images.githubusercontent.com/68930974/173685248-a3cdad74-c5c6-441f-8214-06f575a37d6c.PNG)
+![revele_destino_carlos](https://user-images.githubusercontent.com/68930974/173685458-1331aacd-6006-403b-83fd-ae7cba889917.PNG)
 
 
 ### 👌 Pré-requisitos
